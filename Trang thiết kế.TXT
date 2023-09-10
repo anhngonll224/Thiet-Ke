@@ -1,0 +1,26 @@
+custom axios, createAsyncThunk với RTK Query
+react-hook-form //nhiều thứ quản lý đầu vào đầu ra input dễ dàng lấy đầu vào lấy đầu ra ,chuyền đầu vào chuyền đầu ra,quản lý lỗi
+https://usehooks.com/ Sử dụng được nhiều handle không cần viết state như Count,Hovle,cộng trừ nhân chia ... sử lý task vụ
+Stable Đoodle:vẽ Ai
+https://uiverse.io/ thiết kế các thứ buttons/checkboxes Toggle switches Cards Loaders Inputs Radio buttons Forms .. khá đẹp
+Fancy Border Raduius :Chỉnh sửa tùy ý theo ý mk 
+https://colorhunt.co/ :color phối màu hợp lý kết hợp
+https://fontawesome.com/:icon
+CSSgradient.io:mã màu
+https://animejs.com/:Các hiệu ứng js nhẹ Animations
+AOS :Animations thích hợp cho mấy web bán hàng sản phẩm
+GSAP:3D
+
+https://vincentgarreau.com/particles.js/ layout bg
+https://ianlunn.github.io/Hover/ hover input anime
+https://tympanus.net/Development/AnimatedHeaderBackgrounds/index.html animate bg tiếp
+https://neumorphism.io/#c4b0b0 custom card
+https://animista.net/play/basic/rotate-90 animate icon/text/card
+
+https://pikbest.com/ video mẫu song sang youtobe lấy video free
+https://vi.savefrom.net/1-cach-tai-video-youtube-135.html///tải video youtobe
+
+
+width:clamp(300px,50vw,500px) 50vw giá trị ban đầu 600px,500px
+log lỗi Ctrl + Shift + P, sau đó nhập Show Window Log
+
